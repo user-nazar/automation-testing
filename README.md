@@ -1,2 +1,3 @@
 # automation-testing
-Course
+
+Work with the Selenium driver
