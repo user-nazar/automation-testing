@@ -1,3 +1,3 @@
-# automation-testing
+# Automation testing
 
 Work with the Selenium driver
