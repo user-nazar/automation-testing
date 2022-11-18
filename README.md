@@ -9,6 +9,7 @@ Work with the Selenium driver
 Завдання до лабораторної роботи 
 
 1. Реалізувати скрипт для автоматизації наступних дій: 
+
 a. Відкрити сторінку http://suninjuly.github.io/math.html
 
 b. Прочитати значення змінної x. 
@@ -22,6 +23,7 @@ e. Вибрати checkbox "I'm the robot".
 f. Вибрати radiobutton "Robots rule!". 
 
 g. Натиснути кнопку Submit. 
+
 
 Додаткове завдання
 
